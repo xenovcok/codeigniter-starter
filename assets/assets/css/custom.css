@@ -1,0 +1,20 @@
+.mr-2 {
+	margin-right: 10px;
+}
+
+.card-green {
+	background-color: #01cbb8;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
+
+.card-yellow {
+	background-color: #f4fda7;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
+
+.card-bold {
+	font-size: 26px;
+	font-weight: 700;
+}
