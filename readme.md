@@ -1,6 +1,4 @@
-###################
-Features
-###################
+## Features
 
 - Codeigniter 3
 - Guzzle
@@ -10,5 +8,5 @@ Features
 
 ## Getting Started
 
-Run "composer install"
-then "composer dump-autoload"
+Run ``composer install``
+then ``composer dump-autoload``
